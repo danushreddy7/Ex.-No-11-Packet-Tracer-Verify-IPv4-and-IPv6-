@@ -75,6 +75,7 @@ ________________________________________
 <img width="1895" height="856" alt="501537888-90c00ca1-d559-4390-b6d1-9f821dae9f50" src="https://github.com/user-attachments/assets/d8614dcc-d29f-4e2f-bc7b-553973c36374" />
 
 • Ping results for IPv4 and IPv6.
+
 • Traceroute results showing intermediate hops.
 
 <img width="753" height="420" alt="501536992-c2935432-6708-4b33-bc70-50215ffe3204" src="https://github.com/user-attachments/assets/5e992224-4e22-4822-9b5c-b0f1892a0288" />
